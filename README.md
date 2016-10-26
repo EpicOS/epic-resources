@@ -11,3 +11,6 @@ A directory of links of helpful links for programers. Please feel free to add an
 * [Percentage Pipe](https://angular.io/docs/ts/latest/api/common/index/PercentPipe-pipe.html)
 * [UpperCase Pipe](https://angular.io/docs/ts/latest/api/common/index/UpperCasePipe-pipe.html)
 * [LowerCase Pipe](https://angular.io/docs/ts/latest/api/common/index/LowerCasePipe-pipe.html)
+
+## CSS/Design:
+* [Interactive Text Inputs](http://tympanus.net/codrops/2015/01/08/inspiration-text-input-effects/)
