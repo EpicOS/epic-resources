@@ -16,4 +16,5 @@ A directory of links of helpful links for programers. Please feel free to add an
 * [Interactive Text Inputs](http://tympanus.net/codrops/2015/01/08/inspiration-text-input-effects/)
 * [Gradient Button Generator](http://cssgradientbutton.com/)
 * [Usability Geek](www.usabilitygeek.com)
+* [CSS Positioning](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
 * [Dos and don'ts on designing for accessibility](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_en-UK)
