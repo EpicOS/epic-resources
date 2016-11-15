@@ -17,4 +17,6 @@ A directory of links of helpful links for programers. Please feel free to add an
 * [Gradient Button Generator](http://cssgradientbutton.com/)
 * [Usability Geek](www.usabilitygeek.com)
 * [CSS Positioning](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
+* [+ Syntax Vs ~ Syntax with CSS Selectors](http://stackoverflow.com/questions/26282375/difference-between-the-selectors-div-p-plus-and-div-p-tilde)
+* [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [Dos and don'ts on designing for accessibility](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_en-UK)
