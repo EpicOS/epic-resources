@@ -5,7 +5,7 @@ A directory of links of helpful links for programers. Please feel free to add an
 * [How to find your first open source project to contribute to](https://medium.freecodecamp.com/finding-your-first-open-source-project-or-bug-to-work-on-1712f651e5ba#.kzy148t23)
 * [Newbie Open Source Contributor's Blog - about getting started and newbie mistakes](https://medium.freecodecamp.com/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39#.pe3dknh12)
 
-## Angular 2 Buit-in Pipes:
+## Angular 2 Built-in Pipes:
 * [Date Pipe](https://angular.io/docs/ts/latest/api/common/index/DatePipe-pipe.html)
 * [Currency Pipe](https://angular.io/docs/ts/latest/api/common/index/CurrencyPipe-pipe.html)
 * [Percentage Pipe](https://angular.io/docs/ts/latest/api/common/index/PercentPipe-pipe.html)
@@ -13,6 +13,7 @@ A directory of links of helpful links for programers. Please feel free to add an
 * [LowerCase Pipe](https://angular.io/docs/ts/latest/api/common/index/LowerCasePipe-pipe.html)
 
 ## CSS/Design:
+* [Right Click img, generate color palette! Install this ASAP!](https://chrome.google.com/webstore/detail/palette-creator/oolpphfmdmjbojolagcbgdemojhcnlod)
 * [Interactive Text Inputs](http://tympanus.net/codrops/2015/01/08/inspiration-text-input-effects/)
 * [Gradient Button Generator](http://cssgradientbutton.com/)
 * [Usability Geek](www.usabilitygeek.com)
@@ -20,3 +21,6 @@ A directory of links of helpful links for programers. Please feel free to add an
 * [+ Syntax Vs ~ Syntax with CSS Selectors](http://stackoverflow.com/questions/26282375/difference-between-the-selectors-div-p-plus-and-div-p-tilde)
 * [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [Dos and don'ts on designing for accessibility](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_en-UK)
+
+## Deployment / Hosting
+* [FREE Ember-friendly hosting of your projects](https://docs.pagefronthq.com/)
