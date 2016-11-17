@@ -23,4 +23,4 @@ A directory of links of helpful links for programers. Please feel free to add an
 * [Dos and don'ts on designing for accessibility](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_en-UK)
 
 ## Deployment / Hosting
-* [FREE Ember-friendly hosting of your projects](https://docs.pagefronthq.com/)
+* [FREE Ember-friendly hosting of your (Ember only) projects](https://docs.pagefronthq.com/)
