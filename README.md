@@ -22,6 +22,7 @@ A directory of links of helpful links for programers. Please feel free to add an
 * [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [Dos and don'ts on designing for accessibility](https://github.com/UKHomeOffice/posters/tree/master/accessibility/posters_en-UK)
 * [A Whole Bunch of Amazing Things You Can Do With Pseudo Elements](https://css-tricks.com/pseudo-element-roundup/)
+* [ResponsiveDesign.is](https://responsivedesign.is/strategy/page-layout/defining-breakpoints)
 
 ## Deployment / Hosting
 * [FREE Ember-friendly hosting of your (Ember only) projects](https://docs.pagefronthq.com/)
