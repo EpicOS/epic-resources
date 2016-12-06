@@ -13,6 +13,7 @@ A directory of links of helpful links for programers. Please feel free to add an
 * [LowerCase Pipe](https://angular.io/docs/ts/latest/api/common/index/LowerCasePipe-pipe.html)
 
 ## CSS/Design:
+* [8 SASS Mixins you should have in your toolbox](http://zerosixthree.se/8-sass-mixins-you-must-have-in-your-toolbox/)
 * [Enabling Responsive Design Mode in Safari Browsers](https://www.tekrevue.com/tip/safari-responsive-design-mode/)
 * [Right Click img, generate color palette! Install this ASAP!](https://chrome.google.com/webstore/detail/palette-creator/oolpphfmdmjbojolagcbgdemojhcnlod)
 * [Interactive Text Inputs](http://tympanus.net/codrops/2015/01/08/inspiration-text-input-effects/)
