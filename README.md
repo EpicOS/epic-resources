@@ -27,6 +27,7 @@ A directory of links of helpful links for programers. Please feel free to add an
 * [ResponsiveDesign.is](https://responsivedesign.is/strategy/page-layout/defining-breakpoints)
 * [Twitter Bootstrap - Responsive Design](https://getbootstrap.com/2.0.4/scaffolding.html#responsive)
 * [A Visual Guide to CSS3 Flexbox](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties)
+* [Solved by Flexbox: A Flexbox Showcase](https://philipwalton.github.io/solved-by-flexbox/)
 
 ## Deployment / Hosting
 * [FREE Ember-friendly hosting of your (Ember only) projects](https://docs.pagefronthq.com/)
